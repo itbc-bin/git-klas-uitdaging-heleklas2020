@@ -1,3 +1,3 @@
 # git-klas-uitdaging-heleklas2020
-martijnliebrand  
+Martijn Liebrand  
 Yaris van Thiel  
