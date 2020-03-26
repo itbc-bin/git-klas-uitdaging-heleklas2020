@@ -6,4 +6,5 @@ Kim Bredenkamp
 Noah Scheffer  
 Sanne van Staveren  
 Noah Scheffer  
-Demi van der Pasch  
+Demi van der Pasch   
+Maite van den Noort  
