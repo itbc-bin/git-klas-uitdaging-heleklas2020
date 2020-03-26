@@ -3,4 +3,5 @@ Martijn Liebrand
 Yaris van Thiel  
 Milain Lambers  
 Kim Bredenkamp  
-Noah Scheffer
+Noah Scheffer  
+Maite van den Noort  
